@@ -1,4 +1,4 @@
-# Downloads the Shownotes of Do By Friday
+# Downloads the Shownotes of [Do By Friday](https://dobyfriday.com/)
 
 # To Run You Need Python3
 
